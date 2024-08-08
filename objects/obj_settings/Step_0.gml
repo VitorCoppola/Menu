@@ -1,4 +1,4 @@
-// Evento Step do obj_settings
+
 
 // Navegação com o teclado
 if (keyboard_check_pressed(vk_up)) {

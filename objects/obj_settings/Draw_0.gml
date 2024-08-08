@@ -1,4 +1,4 @@
-// Evento Draw do obj_settings
+
 draw_text(100, 100, "Configurações");
 
 for (var i = 0; i < array_length(options); i++) {
